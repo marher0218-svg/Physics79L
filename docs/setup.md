@@ -63,6 +63,8 @@ You can download anaconda for free [HERE](https://www.anaconda.com/download/succ
 
 This installation will include numpy, matplotlib, scipy and jupyter so you shouldn't have to do anything else.
 
+If you are familiar with the creation and management of environments within Anaconda, you can make a separate environment for this class (with Python 3.13 to ensure compatibility) and activate that environment when working through the notebooks. If you're new to Anaconda, you can just use the default `base` environment and not worry about it.
+
 
 ### Option 2: Installing 'miniconda'
 
