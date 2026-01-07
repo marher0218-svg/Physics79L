@@ -17,7 +17,7 @@ The best/most flexible way to run jupyter is to install it on your computer.  Th
 
 You can download anaconda for free here:
 
-[https://www.anaconda.com/download](https://www.anaconda.com/download)
+[https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
 
 [https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)
 
